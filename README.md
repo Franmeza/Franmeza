@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
@@ -27,7 +22,7 @@
 
 <!--Intro start-->
 <p align="center">
-  I am Francisco Meza and I have a Bachelor degree in  Electronic Enginner but currently working as a IT Support Specialist and web development collaborator for a company located in Canada, . From my work experience, I have gained management skills for tools such as Microsoft Office 365, Gmail Workspace, HubSpot CRM, Tricentis, Jira, Confluence, and troubleshoot them when needed. Thanks to my participation in some projects, I've had the oportunity to work with Angular, Typescript, Laravel, Inertia, Vue.js and built and app with React.js,  for the sales department, and gained experiencie working with SCRUM methodology.
+ Proficient Full Stack Web Developer with a bachelor's degree in electronic engineering and over two years of combined experience in IT and web development. I have expertise in PERN stack, Next.js, server-side rendering, and designing web services and APIs for seamless front-end and back-end communication. Skilled in building reusable application components and knowledge in responsive user interface. Additionally, I possess strong problem-solving skills, attention to detail, and the ability to work both independently and in teams.s
 
 </p>
 <!--Intro end-->

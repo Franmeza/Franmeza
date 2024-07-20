@@ -22,7 +22,7 @@
 
 <!--Intro start-->
 <p align="center">
- Proficient Full Stack Web Developer with a bachelor's degree in electronic engineering and over two years of combined experience in IT and web development. I have expertise in PERN stack, Next.js, server-side rendering, and designing web services and APIs for seamless front-end and back-end communication. Skilled in building reusable application components and knowledge in responsive user interface. Additionally, I possess strong problem-solving skills, attention to detail, and the ability to work both independently and in teams.s
+ Proficient Full Stack Web Developer with a bachelor's degree in electronic engineering and over two years of combined experience in IT and web development. I have expertise in PERN stack, Next.js, server-side rendering, and designing web services and APIs for seamless front-end and back-end communication. Skilled in building reusable application components and knowledge in responsive user interface. Additionally, I possess strong problem-solving skills, attention to detail, and the ability to work both independently and in teams.
 
 </p>
 <!--Intro end-->
